@@ -1,4 +1,4 @@
-# khushi-chadha
+# tipscodingclub
 Algorithmic Assignment of coding club :-
 
 Q1. Palindrome Number:-
